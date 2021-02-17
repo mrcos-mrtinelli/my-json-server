@@ -1,0 +1,13 @@
+{
+  "name": "Jenny Applicant",
+  "email": "jenny@example.com",
+  "resume": "www.example.com/your-resume.pdf",
+  "phone": "555-867-5309",
+  "job_id": "147c6f83-7a68-4698-98e0-569d6caf76cb",
+  "github": "github.com/octocat", // optional
+  "twitter": "@example", // optional
+  "website": "www.example.com", // optional
+  "location": "San Francisco", // optional
+  "favorite_candy": "m&m’s", // optional
+  "superpower": "multilingual" // optional
+}
